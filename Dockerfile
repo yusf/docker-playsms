@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM armbuild/debian
 MAINTAINER Anton Raharja <antonrd@gmail.com>
 
 # debs
